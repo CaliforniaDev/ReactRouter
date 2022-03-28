@@ -12,3 +12,5 @@ const RouteSwitch = () => {
     </BrowserRouter>
   );
 };
+
+export default RouteSwitch;
